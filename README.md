@@ -9,10 +9,15 @@ JavaScript, React, Tailwind
 
 ## Demo
  - Home Page
+
 ![](/docs/Home_gif.gif)
 
+
  - Image Carousel
+
 ![](/docs/Carousel_gif.gif)
 
+
  - Contact Form
+
 ![](/docs/Contact_gif.gif)
